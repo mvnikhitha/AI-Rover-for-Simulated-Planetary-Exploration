@@ -28,8 +28,8 @@ This project simulates an AI rover's autonomous exploration of extraterrestrial 
    ```bash
    git clone https://github.com/mvnikhitha/AI-Rover-for-Simulated-Planetary-Exploration.git
    cd AI-Rover-for-Simulated-Planetary-Exploration
-2. ** Install Dependencies **
-3. ** Run the Simulation **
+2. **Install Dependencies**
+3. **Run the Simulation**
    ```bash
    python main.py
 ## 🧾 Requirements
