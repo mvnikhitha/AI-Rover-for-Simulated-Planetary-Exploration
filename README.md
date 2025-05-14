@@ -33,11 +33,9 @@ This project simulates an AI rover's autonomous exploration of extraterrestrial 
    ```bash
    python main.py
 ## 🧾 Requirements
-
-- Python 3.x  
+- Python  
 - OpenCV  
 - NumPy  
-- Matplotlib *(if visualization is included)*
 
 ---
 
