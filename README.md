@@ -13,18 +13,6 @@ This project simulates an AI rover's autonomous exploration of extraterrestrial 
 
 ---
 
-## 🗂️ Repository Structure
-
-.
-├── pycache # Compiled Python files
-├── main.py # Entry point for running the simulation
-├── rover.py # Rover logic and behavior
-├── terrain_map.png # Sample terrain map image
-├── vision.py # Computer vision functions for feature detection
-└── README.md # Project documentation
-
----
-
 ## 🧠 Key Features
 
 - **Autonomous Navigation**: Simulates movement logic for avoiding obstacles.
@@ -70,5 +58,5 @@ You can replace it with any top-down satellite image or generated terrain map fo
 ---
 ## 👩‍💻 Author
 
-** M V Nikhitha **  
+**M V Nikhitha**  
 
